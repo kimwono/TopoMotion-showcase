@@ -2,7 +2,7 @@
 
 **구조가 다른 입력을 하나의 모델로 처리하는 그래프 기반 모션 표현 모델**
 
-개인 연구 · 2026.04–진행 중 · 이 저장소는 소개용이며 코드는 비공개입니다.
+개인 연구 · 2026.04–진행 중 · 이 저장소는 소개용입니다. 학습 코드는 비공개이며, **배포 코드는 [TopoMotion-maya](https://github.com/kimwono/TopoMotion-maya)에 공개**했습니다.
 
 <p align="center">
   <img src="assets/maya_reconstruction.gif" width="380" alt="Maya에서 복원 결과를 재생한 화면">
@@ -34,7 +34,7 @@
   <br><sub>형태 범주별 정답(파랑)과 복원 결과(주황)</sub>
 </p>
 
-## 배포 검증 (Maya)
+## 배포 검증 (Maya) — [코드](https://github.com/kimwono/TopoMotion-maya)
 
 | 항목 | 결과 |
 |---|---|
